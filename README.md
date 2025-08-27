@@ -1,4 +1,10 @@
-## Hi there 👋
+
+# Hi there 👋 I'm Manisha katipalli  
+
+💡 Data Enthusiast | Aspiring Data Engineer | 
+
+I’m passionate about working with data—cleaning it, analyzing it, and turning it into meaningful insights. My goal is to use data-driven approaches to solve problems and support decision-making, especially in education and mission-driven contexts.
+
 
 <!--
 **Manishakatipalli/Manishakatipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
