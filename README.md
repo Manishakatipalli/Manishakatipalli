@@ -1,31 +1,47 @@
 
-# Hi there 👋 I'm Manisha katipalli  
+# Hi I’m Manisha katipalli 👋  
+**Data Engineer • Python | SQL | PySpark | Cloud | ETL | BI**
 
-💡 Data Enthusiast | Aspiring Data Engineer | 
-
-I’m passionate about working with data—cleaning it, analyzing it, and turning it into meaningful insights. My goal is to use data-driven approaches to solve problems and support decision-making, especially in education and mission-driven contexts.
-
-
-## 🔧 Skills & Tools
-
-**Programming & Data:** Python, SQL, PySpark  
-**Data Analysis & Visualization:** Excel, powebi Pandas, Matplotlib  
-**Databases:** MySQL, PostgreSQL, AWS Redshift, Snowflake
-**Machine Learning: Scikit-learn, Logistic Regression, Random Forest, XG Boost
-**Other Tools:** Git, Jupyter Notebook, VS Code  
+📌  Data Engineer with hands-on experience building scalable cloud ETL pipelines and analytics-ready datasets for business and healthcare use cases.
 
 
-## 🌱 Currently Learning
+---
 
-- Building **end-to-end data pipelines**  
-- Cloud platforms: AWS / gcp basics  
-- Advanced SQL & performance tuning
+## 🔧 Skills
+- **Languages:** Python, SQL  
+- **Data Engineering:** ETL/ELT, Data Modeling, Data Pipelines  
+- **Cloud:** AWS (Glue, Lambda, Redshift), Azure (Data Factory, Synapse), Snowflake  
+- **Orchestration & Tools:** PySpark, Airflow, Docker, Jenkins, Terraform  
+- **Analytics & BI:** Tableau, Power BI  
+- **DevOps & Automation:** CI/CD pipelines, Infrastructure as Code
 
+---
 
+## 💼 Experience
+### **IBM — Data Engineer** *(2025–Present)*
+- Built scalable ETL workflows using PySpark and AWS Glue  
+- Reduced manual data prep by 80% through automation  
+- Built reusable frameworks for data validation & anomaly detection
 
-## 📫 Connect with Me
+### **CitiusTech — Data Engineer** *(2020–2023)*
+- Engineered healthcare data pipelines (Spark, Python)  
+- Designed Snowflake/Azure Synapse data models  
+- Delivered BI dashboards with Power BI and Tableau
 
-- **LinkedIn:** www.linkedin.com/in/katipallimanisha
+---
+
+## 🎓 Education
+- **Master’s in Computer Science**  
+- **B.Tech in Civil Engineering**
+
+---
+
+## 🔗 Portfolio  
+👉 https://katipalli-manisha-m44x5h7.gamma.site/
+
+## 📫 Contact 
+🔗 LinkedIn: https://www.linkedin.com/in/katipallimanisha
+
 <!--
 **Manishakatipalli/Manishakatipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
