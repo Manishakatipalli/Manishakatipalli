@@ -18,15 +18,16 @@
 ---
 
 ## 💼 Experience
-### **IBM — Data Engineer** *(2025–Present)*
-- Built scalable ETL workflows using PySpark and AWS Glue  
-- Reduced manual data prep by 80% through automation  
-- Built reusable frameworks for data validation & anomaly detection
+### **One Synergee, Inc | Agri Charity – Digital Platform   
+•	Contributed to building a digital platform for regenerative agriculture, promoting sustainable food systems. 
+•	Collaborated with cross-functional teams to deliver data-driven insights for platform development. 
+•	Applied academic knowledge to real-world projects, strengthening problem-solving and adaptability. 
 
-### **CitiusTech — Data Engineer** *(2020–2023)*
-- Engineered healthcare data pipelines (Spark, Python)  
-- Designed Snowflake/Azure Synapse data models  
-- Delivered BI dashboards with Power BI and Tableau
+### **Wipro Limited | Internship                                                                                         Feb 2022 - June 2022 
+•	Optimized SQL-based reporting tools, improving system performance. 
+•	Assisted in job scheduling and resource monitoring automation. 
+•	Developed queries for storage optimization and performance tuning. 
+•	Gained exposure to distributed systems, search frameworks, and system internals
 
 ---
 
