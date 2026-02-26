@@ -19,7 +19,7 @@
 
 ## 💼 Experience
 ### IBM
-## Senior Data Engineer |June 2025 – Present 
+## Senior Data Engineer |August 2024 – Present 
 •	Designed and optimized end-to-end data pipelines using PySpark, SQL, and Airflow to ingest, cleanse, enrich, and transform high
 volume enterprise data from CRM, billing, and workflow systems, enhancing data quality and enabling consistent reporting for 
 analytics teams. 
