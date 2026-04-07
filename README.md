@@ -19,6 +19,7 @@ Engineering, Feature Stores, Data Modeling, Time-Series Forecasting
 
 ## 💼 Experience
 Machine Learning Engineer |JPMorgan Chase | USA Aug 2024 – Present
+
 • Designed and deployed production-grade ML models for fraud detection and recommendation systems using Python, TensorFlow, and XGBoost,
 improving model accuracy by 40% and reducing prediction latency by 50%.
 • Architected real-time streaming pipelines using Apache Kafka, AWS Glue, and PySpark to process 2M+ daily transactions for near real-time risk
